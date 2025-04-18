@@ -1,5 +1,5 @@
 //@version=5
-strategy("Million Moves Style Strategy V1", overlay=true, default_qty_type=strategy.percent_of_equity, default_qty_value=10)
+strategy("Gautam  singh moves Style Strategy V1", overlay=true, default_qty_type=strategy.percent_of_equity, default_qty_value=10)
 
 // === INPUTS ===
 fastMA = input.int(9, title="Fast MA", minval=1)
